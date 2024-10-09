@@ -1,36 +1,16 @@
-# 👋 Hi, I'm Rishi Ramesh!  
+# Hi, I'm Rishi 👋
 
-Welcome to my GitHub profile! I’m a passionate tech enthusiast with a background in **Web Technology** and **AI-driven solutions**. I love building scalable software, exploring the latest in cloud technologies, and creating impactful products. Here’s a bit more about me:
+👨‍💻 **Software Engineer | Product Management Enthusiast | AI Researcher**
 
-## 🎓 Education
-- **Master's in Information Systems** at the **University of Utah** (Expected: May 2025)
-- **B.Tech in Computer Science**, SRM Institute of Science and Technology
+🔹 4+ years of experience in software development and cloud solutions.  
+🔹 Skilled in building AI-driven solutions and enhancing user experiences.  
+🔹 Currently pursuing a Master's in Information Systems at the University of Utah.  
 
-## 💼 Professional Experience
-- **Former Web Technology Specialist** at **Lenovo**, where I contributed to global eCommerce platforms.
-- **Research Assistant** at the David Eccles School of Business, co-authoring research papers on AI and mental health applications.
+🌐 Check out my [LinkedIn](https://linkedin.com/in/rishi0309) | [Portfolio](https://rishiramesh.space)  
 
-## 🔧 Skills
-### Programming Languages:
-- **Java**, **Python**, **JavaScript**, **C++**, **PHP**
+## 📂 Work Experience  
+- **Graduate Research Assistant**, University of Utah (June 2024 - Present):  
+   Building AI-based mental health support platforms for students leveraging NLP.  
 
-### Cloud & AI Expertise:
-- **AWS** (Certified AI Practitioner), **GCP**
-- AI Tools: **Amazon SageMaker**, **Lex**, **Comprehend**, **Polly**
-- **Machine Learning** & **NLP**
-
-### Web Development:
-- **Front-End**: React, Angular, HTML/CSS
-- **Back-End**: Node.js, MySQL, MongoDB
-
-### Project Management:
-- Agile methodologies, JIRA, MS Project
-
-## 📈 Current Focus
-Building AI-powered applications and exploring the intersection of **cloud technologies** and **machine learning**.
-
-## 📫 Connect With Me!
-- **LinkedIn**: [linkedin.com/in/rishi0309](https://linkedin.com/in/rishi0309)
-- **Portfolio**: [rishiramesh.space](https://rishiramesh.space)
-
-Thanks for visiting! Feel free to explore my repositories or reach out for a chat!
+- **Software Developer (Web Technology Specialist)**, Lenovo (July 2020 - Nov 2023):  
+   Developed eCommerce applications and led performance optimization, boosting user engagement to over 100,000 users.  
