@@ -16,4 +16,4 @@
    Developed eCommerce applications and led performance optimization, boosting user engagement to over 100,000 users.  
 
 ## 📈 Product Management Projects  
-- [**HikeConnect**](https://github.com/rrishi0309/HikeConnect):  A social platform for hikers, allowing users to create, join, and manage hiking communities, share trails, and collaborate.
+- [**HikeConnect**](https://github.com/rrishi0309/HikeConnect):  A social platform for adventure enthusiasts to discover new trails, connect with fellow hikers, create and join communities, and collaborate for the ultimate hiking experience.
