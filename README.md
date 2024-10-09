@@ -14,3 +14,7 @@
 
 - **Software Developer (Web Technology Specialist)**, Lenovo (July 2020 - Nov 2023):  
    Developed eCommerce applications and led performance optimization, boosting user engagement to over 100,000 users.  
+
+## 📈 Product Management Projects  
+- [**HikeConnect**](https://github.com/rrishi0309/HikeConnect):  
+   A product management project focused on developing a social platform for hikers, allowing users to create, join, and manage hiking communities, share trails, and collaborate.
