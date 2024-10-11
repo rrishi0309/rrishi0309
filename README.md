@@ -1,6 +1,6 @@
 # Hi, I'm Rishi 👋
 
-👨‍💻 **Software Engineer | Product Management Enthusiast | AI Researcher**
+👨‍💻 **Software Engineer | Product Management | AI Researcher**
 
 🔹 4+ years of experience in software development and cloud solutions.  
 🔹 Skilled in building AI-driven solutions and enhancing user experiences.  
