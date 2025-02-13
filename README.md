@@ -9,8 +9,8 @@
 🌐 Check out my [LinkedIn](https://linkedin.com/in/rishi0309) | [Portfolio](https://rishiramesh.space)  
 
 ## 📂 Work Experience  
-- **Graduate Research Assistant**, University of Utah (June 2024 - Present):  
-   Building AI-based mental health support platforms for students leveraging NLP.  
+- **AI Solutions Engineer & Graduate Research Assistant**, University of Utah (June 2024 - Present):  
+   Building & researching AI Solutions for the business school.  
 
 - **Software Developer (Web Technology Specialist)**, Lenovo (July 2020 - Nov 2023):  
    Developed eCommerce applications and led performance optimization, boosting user engagement to over 100,000 users.  
