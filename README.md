@@ -12,7 +12,7 @@
 
 ## 🚀 **Work Experience**  
 
-### 🧠 **AI Solutions Engineer & Research Assistant** | *University of Utah (2024 - Present)*  
+### 🤖 **AI Solutions Engineer & Research Assistant** | *University of Utah (2024 - Present)*  
 - Developing **AI-powered solutions** for the business school, enhancing student advising & workflow automation.  
 - Researching **LLMs & NLP-driven chatbots** for mental health applications.  
 
