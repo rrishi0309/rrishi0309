@@ -53,4 +53,3 @@
 ## 📬 **Let's Connect!**  
 💼 **LinkedIn:** [linkedin.com/in/rishi0309](https://linkedin.com/in/rishi0309)  
 🌍 **Portfolio:** [rishiramesh.space](https://rishiramesh.space)  
-📧 **Email:** r.rishi0309@gmail.com  
