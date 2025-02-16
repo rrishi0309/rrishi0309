@@ -1,6 +1,6 @@
 # Hi, I'm Rishi 👋  
 
-## 👨‍💻 AI Engineer | Software Developer | AI Researcher  
+## 👨‍💻 AI Engineer | Software Developer | Tech Product Management
 
 🔹 4+ years of experience in **AI, Software Development, and Cloud Solutions**  
 🔹 Skilled in **LLMs, NLP, AI-driven automation, and Web Development**  
@@ -47,36 +47,6 @@
 ### **🎭 Texus19 Events Platform**  
 🎉 *Event management platform designed for large-scale collaboration*  
 🔗 [Repo](https://github.com/rrishi0309/Texus19_Events)  
-
----
-
-## 📜 **Skills & Technologies**  
-
-🧠 **AI & Machine Learning:**  
-- Large Language Models (LLMs): GPT API, Gemini AI, LLaMA  
-- NLP, Sentiment Analysis, Text Classification  
-- AI-driven Automation, Predictive Analytics, AI Model Optimization  
-- Hugging Face, TensorFlow, PyTorch  
-
-☁ **Cloud & DevOps:**  
-- AWS AI Services (Comprehend, Bedrock, Rekognition, Lex, Polly)  
-- Google Cloud AI (Vertex AI), Retool AI  
-- Docker, Kubernetes, GitLab CI/CD, Serverless Architecture  
-
-💻 **Software Development:**  
-- Python, Java, JavaScript, PHP, Kotlin  
-- REST APIs, MySQL, MongoDB  
-- API Development, Web Application Development (Angular, React)  
-
-📊 **Data Science & MLOps:**  
-- Data Engineering, Feature Engineering  
-- Model Deployment & Inference, A/B Testing  
-- MLflow, Streamlit, LangChain, AWS SageMaker  
-
-🎨 **UX/UI & Product Development:**  
-- Adobe XD, Figma, InVision  
-- User Research, Wireframing, Prototyping, Responsive Design  
-
 
 ---
 
