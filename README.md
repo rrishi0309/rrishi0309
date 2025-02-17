@@ -1,6 +1,6 @@
 # Hi, I'm Rishi 👋  
 
-## 👨‍💻 AI Engineer | Software Developer | Tech Product Management
+## 👨‍💻 AI Engineer | Software Developer | Web Developer
 
 🔹 4+ years of experience in **AI, Software Development, and Cloud Solutions**  
 🔹 Skilled in **LLMs, NLP, AI-driven automation, and Web Development**  
