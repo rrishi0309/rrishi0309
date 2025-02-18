@@ -10,6 +10,16 @@
 
 ---
 
+## 🏆 **Certifications**  
+
+👉 **Lean Six Sigma - Green Belt** *(In Progress, Expected Apr 2025)*  
+👉 **AWS Certified Developer Associate** *(Jan 2025)* – [View Certificate](https://www.credly.com/badges/994f8ee0-266c-4b9d-a805-c8fc4d6836f1/public_url)  
+👉 **Domo Professional Certification** *(Nov 2024)* – [View Certificate](https://www.credly.com/badges/8ac66b06-1288-48cb-9921-0a938dcd1445/public_url)  
+👉 **AWS Certified AI Practitioner** *(Aug 2024)* – [View Certificate](https://www.credly.com/badges/94b3abc8-1b8a-48ff-94f2-146bd92841a2)  
+
+
+---
+
 ## 🚀 **Work Experience**  
 
 ### 🤖 **AI Solutions Engineer & Research Assistant** | *University of Utah (2024 - Present)*  
@@ -32,15 +42,15 @@
 🤖 *AI-driven mental health chatbot using GPT-4o & Retool AI*  
 🔗 [Repo](https://github.com/rrishi0309/Mental-Health-AI-Companion)  
 
-### **🏕️ HikeConnect - Product Management App**  
-🗺️ *Digital companion for hikers, integrating navigation, safety alerts & community features*  
+### **🏞️ HikeConnect - Product Management App**  
+🛂 *Digital companion for hikers, integrating navigation, safety alerts & community features*  
 🔗 [Repo](https://github.com/rrishi0309/Product-Management---HikeConnect)  
 
-### **📡 SRM Nexus - Social Networking Site**  
+### **📺 SRM Nexus - Social Networking Site**  
 💬 *Platform for student clubs & networking*  
 🔗 [Repo](https://github.com/rrishi0309/SRM-Nexus)  
 
-### **🔐 Secured Health Record System**  
+### **🔒 Secured Health Record System**  
 🛡️ *Electronic Health Record system with AES encryption & SHA-1 hashing for security*  
 🔗 [Repo](https://github.com/rrishi0309/Secured_Health_Record_System)  
 
@@ -50,6 +60,6 @@
 
 ---
 
-## 📬 **Let's Connect!**  
-💼 **LinkedIn:** [linkedin.com/in/rishi0309](https://linkedin.com/in/rishi0309)  
-🌍 **Portfolio:** [rishiramesh.space](https://rishiramesh.space)  
+## 📩 **Let's Connect!**  
+🎓 **LinkedIn:** [linkedin.com/in/rishi0309](https://linkedin.com/in/rishi0309)  
+🌐 **Portfolio:** [rishiramesh.space](https://rishiramesh.space)  
