@@ -34,7 +34,7 @@
 
 ## **📂 Featured Projects**  
 
-### **📊 S.M.A.R.T Stock Market Analysis Tool**  
+### **📊 S.M.A.R.T Stock Market Analysis & Recommendation Tool**  
 🚀 *AI-powered Stock Market Analysis & Recommendation system*  
 🔗 [Repo](https://github.com/rrishi0309/S.M.A.R.T-Stock-Market-Analysis-Recommendation-Tool)  
 
