@@ -42,6 +42,10 @@
 🤖 *AI-driven mental health chatbot using GPT-4o & Retool AI*  
 🔗 [Repo](https://github.com/rrishi0309/Mental-Health-AI-Companion)  
 
+### **📚 AI Syllabus Summarizer (Powered by AI & Retool)**
+🔎 *AI-powered Syllabus Summarizer*
+🔗 [Repo](https://github.com/rrishi0309/AI-Syllabus-Summarizer)  
+
 ### **🏞️ HikeConnect - Product Management App**  
 🛂 *Digital companion for hikers, integrating navigation, safety alerts & community features*  
 🔗 [Repo](https://github.com/rrishi0309/Product-Management---HikeConnect)  
