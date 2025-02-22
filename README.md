@@ -42,7 +42,7 @@
 🤖 *AI-driven mental health chatbot using GPT-4o & Retool AI*  
 🔗 [Repo](https://github.com/rrishi0309/Mental-Health-AI-Companion)  
 
-### **📚 AI Syllabus Summarizer (Powered by AI & Retool)**
+### **📚 AI Syllabus Summarizer**
 🔎 *AI-powered Syllabus Summarizer using Claude 3 Haiku & GPT-4o*  
 🔗 [Repo](https://github.com/rrishi0309/AI-Syllabus-Summarizer)  
 
