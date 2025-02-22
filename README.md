@@ -1,6 +1,19 @@
 # Hi, I'm Rishi 👋  
 
 ## 👨‍💻 AI Engineer | Software Developer | Web Developer
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <ul>
+      <li>📌 <strong>4+ years of experience</strong> in <strong>AI, Software Development, and Cloud Solutions</strong></li>
+      <li>🚀 Skilled in <strong>LLMs, NLP, AI-driven automation, and Web Development</strong></li>
+      <li>🎓 Pursuing a <strong>Master’s in Information Systems at the University of Utah</strong></li>
+    </ul>
+    <p>🌐 Connect with me: <a href="https://www.linkedin.com">LinkedIn</a> | <a href="https://yourportfolio.com">Portfolio</a></p>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="https://github.com/user-attachments/assets/3fe53ea1-4821-44ae-9390-403c9070ca26" width="150" alt="GitHub Octocat">
+  </div>
+</div>
 
 ![GitHub-logo](https://github.com/user-attachments/assets/3fe53ea1-4821-44ae-9390-403c9070ca26)
 
