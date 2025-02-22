@@ -63,9 +63,3 @@
 ### **🎭 Texus19 Events Platform**  
 🎉 *Event management platform designed for large-scale collaboration*  
 🔗 [Repo](https://github.com/rrishi0309/Texus19_Events)  
-
----
-
-## 📩 **Let's Connect!**  
-🎓 **LinkedIn:** [linkedin.com/in/rishi0309](https://linkedin.com/in/rishi0309)  
-🌐 **Portfolio:** [rishiramesh.space](https://rishiramesh.space)  
