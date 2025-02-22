@@ -8,8 +8,6 @@
 **🚀 Skilled** in **LLMs, NLP, AI-driven automation, and Web Development**  
 **🎓 Pursuing** a **Master’s in Information Systems** at the University of Utah  
 
-🌐 **Connect with me:** [LinkedIn](https://www.linkedin.com) | [Portfolio](https://yourportfolio.com)
-
 **🌐 Connect with me:** [LinkedIn](https://www.linkedin.com/in/rishi0309/) | [Portfolio](https://rishiramesh.space)
 
 ---
