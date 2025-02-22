@@ -1,6 +1,6 @@
 # Hi, I'm Rishi 👋  
 
-## 👨‍💻 AI Engineer | Software Developer | Web Developer
+## 👨‍💻 AI Engineer | Software Developer | Solutions Engineer
 
 <img align="right" width="150" src="https://github.com/user-attachments/assets/3fe53ea1-4821-44ae-9390-403c9070ca26" alt="GitHub Octocat">
 
