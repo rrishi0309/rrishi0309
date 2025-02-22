@@ -10,9 +10,6 @@
 
 **🌐 Connect with me:** [LinkedIn](https://www.linkedin.com/in/rishi0309/) | [Portfolio](https://rishiramesh.space)
 
-
----
-
 ## 🏆 **Certifications**  
 
 👉 **Lean Six Sigma - Green Belt** *(In Progress, Expected Apr 2025)*  
