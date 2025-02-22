@@ -17,12 +17,6 @@
 
 ![GitHub-logo](https://github.com/user-attachments/assets/3fe53ea1-4821-44ae-9390-403c9070ca26)
 
-🔹 4+ years of experience in **AI, Software Development, and Cloud Solutions**  
-🔹 Skilled in **LLMs, NLP, AI-driven automation, and Web Development**  
-🔹 Pursuing a **Master’s in Information Systems** at the **University of Utah**  
-
-🌐 Connect with me: [LinkedIn](https://linkedin.com/in/rishi0309) | [Portfolio](https://rishiramesh.space)  
-
 ---
 
 ## 🏆 **Certifications**  
