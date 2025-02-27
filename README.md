@@ -39,7 +39,7 @@
 🔗 [Repo](https://github.com/rrishi0309/S.M.A.R.T-Stock-Market-Analysis-Recommendation-Tool)  
 
 ### **🧠 Mental Health AI Companion**  
-🤖 *AI-driven mental health chatbot using GPT-4o & Retool AI*  
+🤖 *AI-driven mental health chatbot powered by GPT-4o, Retool AI, RAG, OpenAI Whisper (STT), and TTS, providing empathetic, anonymous, and accessible emotional support.*  
 🔗 [Repo](https://github.com/rrishi0309/Mental-Health-AI-Companion)  
 
 ### **📚 AI Syllabus Summarizer**
