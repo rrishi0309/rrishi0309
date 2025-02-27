@@ -35,7 +35,7 @@
 ## **📂 Featured Projects**  
 
 ### **📊 S.M.A.R.T Stock Market Analysis & Recommendation Tool**  
-🚀 *AI-powered Stock Market Analysis & Recommendation system*  
+🚀 *AI-powered Stock Market Analysis & Recommendation system using GCP & Gemini 1.5*  
 🔗 [Repo](https://github.com/rrishi0309/S.M.A.R.T-Stock-Market-Analysis-Recommendation-Tool)  
 
 ### **🧠 Mental Health AI Companion**  
