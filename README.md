@@ -23,12 +23,8 @@
 ## 🚀 **Work Experience**  
 
 ### 🤖 **AI Solutions Engineer & Research Assistant** | *University of Utah (2024 - Present)*  
-- Developing **AI-powered solutions** for the business school, enhancing student advising & workflow automation.  
-- Researching **LLMs & NLP-driven chatbots** for mental health applications.  
 
-### 💻 **Software Developer (Web Technology Specialist)** | *Lenovo (2020 - 2023)*  
-- Built **eCommerce applications** using **JavaScript, Angular**, and backend systems, scaling to **100,000+ users**.  
-- Led **Lenovo Community platform** development, reducing feature delivery time by **30%**.  
+### 💻 **Web Technology Specialist** | *Lenovo (2020 - 2023)*  
 
 ---
 
