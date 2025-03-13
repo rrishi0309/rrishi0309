@@ -22,9 +22,9 @@
 
 ## 🚀 **Work Experience**  
 
-### 🤖 **AI Solutions Engineer & Research Assistant** | *University of Utah (2024 - Present)*  
+### 🤖 **AI Solutions Engineer & Research Assistant** | *University of Utah (June 2024 - Present)*  
 
-### 💻 **Web Technology Specialist** | *Lenovo (2020 - 2023)*  
+### 💻 **Web Technology Specialist** | *Lenovo (July 2020 - November 2023)*  
 
 ---
 
