@@ -48,7 +48,7 @@
 🔗 [Repo](https://github.com/rrishi0309/Mental-Health-AI-Companion)  
 
 ### 📚 AI Syllabus Summarizer  
-🔎 *AI-powered Syllabus Summarizer using GPT-4o on Power Platform*  
+🔎 *AI-powered Syllabus Summarizer using AI Hub (GPT-4o) on Power Platform (Power Pages & Power Automate)*  
 🔗 [Repo](https://github.com/rrishi0309/SyllabusSummarizer-PowerPlatform)
 
 🔎 *AI-powered Syllabus Summarizer using Claude 3 Haiku & GPT-4o*  
