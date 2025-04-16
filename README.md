@@ -52,6 +52,7 @@
 🔗 [Repo](https://github.com/rrishi0309/SyllabusSummarizer-PowerPlatform)
 
 🔎 *AI-powered Syllabus Summarizer using Claude 3 Haiku & GPT-4o*
+
 🔗 [Repo](https://github.com/rrishi0309/AI-Syllabus-Summarizer)  
 
 ### 🌾 HikeConnect - Product Management App  
