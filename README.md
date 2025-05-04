@@ -6,7 +6,7 @@
 
 **📌 4+ years of experience** in **AI, Software Development, and Cloud Solutions**  
 **🚀 Skilled** in **LLMs, NLP, AI-driven automation, and Web Development**  
-**🎓 **Master’s in Information Systems** at the University of Utah  
+**🎓 Master’s in Information Systems** at the University of Utah  
 
 **🌐 Connect with me:** [LinkedIn](https://www.linkedin.com/in/rishi0309/) | [Portfolio](https://rishiramesh.space)
 
