@@ -23,7 +23,13 @@
 
 ## 🚀 Work Experience
 
-### 🤖 AI Solutions Engineer & Research Assistant | *University of Utah (June 2024 - Present)*  
+### 🤖 AI Integration Specialist | *Boncom (June 2025 – Present)*  
+- Built and launched Boncom’s AI program from the ground up, including a **GenAI platform** and **multiple AI agents**.  
+- Drove adoption across **marketing, strategy, and analytics teams**, enabling cross-functional efficiency.  
+- Developed **agentic workflows, prompt systems, and data enrichment pipelines** for campaign analytics.  
+- Prototyped solutions in **Streamlit and Python**, accelerating experimentation and adoption.  
+
+### 🤖 AI Solutions Engineer & Research Assistant | *University of Utah (June 2024 – May 2025)*  
 - Developing agentic AI tools for real-world use cases  
 - Retool + GPT-4o integration for healthcare, scheduling, and education  
 
@@ -91,4 +97,3 @@
 
 - 💡 **Top Contributor Award** – *Lenovo, Dec 2020*  
   *Honored for proactive innovation in the Digital Transformation team.*
-
