@@ -4,7 +4,7 @@
 
 <img align="right" width="150" src="https://github.com/user-attachments/assets/3fe53ea1-4821-44ae-9390-403c9070ca26" alt="GitHub Octocat">
 
-**📌 4+ years of experience** in **AI, Software Development, and Cloud Solutions**  
+**📌 5+ years of experience** in **AI, Software Development, and Cloud Solutions**  
 **🚀 Skilled** in **LLMs, NLP, AI-driven automation, and Web Development**  
 **🎓 Master’s in Information Systems** at the University of Utah  
 
@@ -97,5 +97,6 @@
 
 - 💡 **Top Contributor Award** – *Lenovo, Dec 2020*  
   *Honored for proactive innovation in the Digital Transformation team.*
+
 
 
