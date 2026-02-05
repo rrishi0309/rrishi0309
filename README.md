@@ -8,7 +8,7 @@
 **🚀 Skilled** in **LLMs, NLP, AI-driven automation, and Web Development**  
 **🎓 Master’s in Information Systems** at the University of Utah  
 
-**🌐 Connect with me:** [LinkedIn](https://www.linkedin.com/in/rishi0309/) | [Portfolio](https://rishiramesh.space)
+**🌐 Connect with me:** [LinkedIn](https://www.linkedin.com/in/rishi0309/)
 
 ---
 
@@ -97,6 +97,7 @@
 
 - 💡 **Top Contributor Award** – *Lenovo, Dec 2020*  
   *Honored for proactive innovation in the Digital Transformation team.*
+
 
 
 
