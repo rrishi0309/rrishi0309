@@ -100,7 +100,8 @@
 
 
 
-![snake animation](https://github.com/rrishi0309/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/rrishi0309/rishi0309/blob/output/github-contribution-grid-snake2.svg)
+
 
 
 
