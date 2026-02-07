@@ -1,6 +1,6 @@
 # Hi, I'm Rishi 👋  
 
-## 👨‍💻 AI Engineer | Software Developer | Solutions Engineer
+## 👨‍💻 AI Solutions Manager | Software Developer
 
 <img align="right" width="150" src="https://github.com/user-attachments/assets/3fe53ea1-4821-44ae-9390-403c9070ca26" alt="GitHub Octocat">
 
@@ -97,6 +97,7 @@
 
 - 💡 **Top Contributor Award** – *Lenovo, Dec 2020*  
   *Honored for proactive innovation in the Digital Transformation team.*
+
 
 
 
